@@ -38,3 +38,5 @@ If you are German and are interested in a roleplay project that will be released
 [Discord](https://discord.gg/pUuye4Rn5W)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2V8EIB)
+
+[Preview](https://youtu.be/cXvGZLc5V5U)
