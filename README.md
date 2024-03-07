@@ -35,7 +35,9 @@ Dependencies:
 [ox_lib](https://github.com/overextended/ox_lib)
 
 If you are German and are interested in a roleplay project that will be released this year, join here:
-[Discord](https://discord.gg/pUuye4Rn5W)
+[International Roleplay Discord](https://discord.gg/pUuye4Rn5W)
+
+[Discord](https://discord.gg/tSqXMGeR87)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2V8EIB)
 
