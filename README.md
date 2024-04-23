@@ -34,7 +34,7 @@ Thanks to pural for creating the script.
 Dependencies:
 [ox_lib](https://github.com/overextended/ox_lib)
 
-If you are German and are interested in a roleplay project that will be released this year, join here:
+If you are German and are interested in a roleplay project that will be released 2024, join here:
 [International Roleplay Discord](https://discord.gg/pUuye4Rn5W)
 
 [Discord](https://discord.gg/tSqXMGeR87)
